@@ -1,2 +1,3 @@
-# D2L-PyTorch-Notebooks
-Notebooks for Dive into Deep Learning implemented with PyTorch.
+# D2L PyTorch Notebooks
+
+Notebooks for **_[Dive into Deep Learning](https://d2l.ai/)_** implemented with PyTorch.
